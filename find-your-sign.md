@@ -1,5 +1,3 @@
-# Find out your sign below
-
 <p align="center" width="100" height="100"> <h1>Scutum <img align="center" width="100" height="100" src="constellations/Scutum_sign.png"> </h1></p><br />
 <p width="300" height="300"> <img align="right" width="400" height="400" src="constellations/Scutum.png"/> 
   <b>Dates</b>: April 25 - June 4  <br /> <br /> 
