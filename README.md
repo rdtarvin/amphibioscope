@@ -1,5 +1,5 @@
-# Welcome to Amphibioscope, your one-stop-shop for amphibian horoscopes!
+## Welcome to Amphibioscope, your one-stop-shop for amphibian horoscopes!
 
-## [Find your sign here](https://rdtarvin.github.io/amphibioscope/find-your-sign) 
+### What's your sign? Find out [here](https://rdtarvin.github.io/amphibioscope/find-your-sign) 
 
 
