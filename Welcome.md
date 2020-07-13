@@ -1,3 +1,7 @@
+layout: page
+title: "Welcome"
+permalink: /signs/
+
 # Welcome to Amphibioscope, your one-stop shop for learning what your future may hold!
 
 ## Find out your sign below
