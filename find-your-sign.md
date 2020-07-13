@@ -5,7 +5,7 @@
   <b>Celebrities</b>: <i>Bufo bufo, Megophrys nasuta, Taricha torosa, Caecilia thompsoni</i> </p> <br />
   
   
- <p align="center" width="100" height="100"> <h1>Eridanus <img align="left" width="100" height="100" src="constellations/Eridanus_sign.png"> </h1></p><br />
+ <p align="center" width="100" height="100"> <h1>Eridanus <img align="left" width="100" height="100" src="constellations/Eridanus_sign.png"> </h1></p>
 <p width="300" height="300"> <img align="right" width="400" height="400" src="constellations/Eridanus.png"/> 
   <b>Dates</b>: June 5 - July 20  <br /> <br /> 
   <b>Description</b>: Eridani are known for their out-going and extroverted nature. Eridani are bright-eyed with a strong sense of adventure. They follow the beat of their own drum, which can be their greatest strength but also make it hard for some to relate to them. Eridani love to talk but can sometimes come off as a little overbearing. They usually hit it off with Volans and clash with Hercules.  <br /><br /> 
