@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Find your sign
+title: Find Your Sign
 ---
 
 <h1><p> Scutum <img align="left" width="100" valign="middle" halign="middle" height="100" src="constellations/Scutum_sign.png"> </p></h1><br />
