@@ -1,7 +1,3 @@
-layout: page
-title: "Welcome"
-permalink: /signs/
-
 ## Find out your sign below
 
 ### Scutum ![Scutum sign](https://github.com/rdtarvin/amphibioscope/blob/master/constellations/Scutum_sign.png)
