@@ -1,0 +1,13 @@
+To run this script you'll need to install the natural language processor (nlp) from the anaconda prompt on your computer using these two steps:
+
+1) install spacy (the text parsing library):  pip install -U spacy
+
+2) install the nlp: python -m spacy download en_core_web_sm 
+
+Then, you need to find the directory where you downloaded en_core_web_sm on your computer and copy that file directory into line 30 of the attached script:
+
+nlp = spacy.load(r'your_file_directory')
+
+
+
+Once you've done that, the script should run properly and you'll be able to mess with the different text parsing parameters. As written the script will break a text paragraph into sentences, individuals tokens, and also give the position of each token. On the spacy website (https://spacy.io/usage/linguistic-features) there are more details on how to break things down in different ways grammatically.
