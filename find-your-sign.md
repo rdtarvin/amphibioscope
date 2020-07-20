@@ -5,7 +5,7 @@
   <b>General Amphibian Characteristics</b>: Bumpy toads, rough skinned newts, and terrestrial caecilians.<br /> <br />
 <details> 
   <summary><b>Amphibian Spiritual Guides</b></summary>
-   Bufonidae<a href="https://amphibiaweb.org/lists/Bufonidae.shtml"/>, Megophryidae, Brachycephalidae, Alytidae, Salamandridae, Caeciliidae
+   <a href="https://amphibiaweb.org/lists/Bufonidae.shtml">Bufonidae</a>, Megophryidae, Brachycephalidae, Alytidae, Salamandridae, Caeciliidae
 </details> 
   <b>Celebrities</b>: <i>Bufo bufo, Megophrys nasuta, Taricha torosa, Caecilia thompsoni</i> </p> <br /> <br />
   
