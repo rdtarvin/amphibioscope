@@ -8,7 +8,8 @@
    <a href="https://amphibiaweb.org/lists/Bufonidae.shtml">Bufonidae</a>, <a href="https://amphibiaweb.org/lists/Megophryidae.shtml">Megophryidae</a>,<a href="https://amphibiaweb.org/lists/Brachycephalidae.shtml">Brachycephalidae</a>, <a href="https://amphibiaweb.org/lists/Alytidae.shtml">Alytidae</a>, <a href="https://amphibiaweb.org/lists/Salamandridae.shtml">Salamandridae</a>, <a href="https://amphibiaweb.org/lists/Caeciliidae.shtml">Caeciliidae</a>
 </details> <br />
   <b>Celebrities</b>: <i>Bufo bufo, Megophrys nasuta, Taricha torosa, Caecilia thompsoni</i> </p> <br /> <br />
-<p><img align="left" width="100" height="100" src="http://calphotos.berkeley.edu/cgi/img_query?where-kwid=0000+0000+0202+0231&one=T"> </p>
+<p><img align="left" width="100" height="100" src="http://calphotos.berkeley.edu/cgi/imgs/128x192/0000_0000/0202/0231.jpeg"> </p><br/><br/>
+
 
   
   
